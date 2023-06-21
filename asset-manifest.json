@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.1036b8f7.css",
-    "main.js": "./static/js/main.17a9c296.js",
+    "main.css": "./static/css/main.fa001fe7.css",
+    "main.js": "./static/js/main.02128759.js",
     "static/media/TAG-LASILVA.png": "./static/media/TAG-LASILVA.38e2537a485810d3917f.png",
     "index.html": "./index.html",
-    "main.1036b8f7.css.map": "./static/css/main.1036b8f7.css.map",
-    "main.17a9c296.js.map": "./static/js/main.17a9c296.js.map"
+    "main.fa001fe7.css.map": "./static/css/main.fa001fe7.css.map",
+    "main.02128759.js.map": "./static/js/main.02128759.js.map"
   },
   "entrypoints": [
-    "static/css/main.1036b8f7.css",
-    "static/js/main.17a9c296.js"
+    "static/css/main.fa001fe7.css",
+    "static/js/main.02128759.js"
   ]
 }
